@@ -101,6 +101,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [Lidnight](https://lidnight.app/en/buy/) | 50% off | — | `BF50` |
 | [Looq](https://parcse.com/looq) | 10% off | $9.00 · one-time | `PARCSEBLACKFRIDAY` |
 | [Needling](https://andretan0.gumroad.com/l/leqnw/BLACKFRIDAY) | 60% off | $3.82 · one-time | — |
+| [Open Pi - Raspberry Pi Manager](https://openpi.uk/) | About 20% off · through Nov 30, 2026 (PT); 500 redemptions | US$4.79 · single-user lifetime | [`ARTSVITBF20`](https://apps.apple.com/redeem?ctx=offercodes&id=6762019524&code=ARTSVITBF20) |
 | [Piloterr](https://www.piloterr.com/blackfriday) | 50% off · first 3 months | From $24.50 / month · first 3 months | `BLACKFRIDAY50` |
 | [PortDroid](https://portdroid.net/black-friday-2026) | 50% off | $4.69 · lifetime | `CYBER_2026` |
 | [Proxyman](https://proxyman.com/pricing) | 30% off | $62.30 · Standard | `BF2026` |
@@ -113,6 +114,7 @@ Learn Linux, DevOps, cybersecurity, and cloud with hands-on labs in your browser
 | [TablePlus](https://tableplus.com/pricing) | 25% off | $74.25 · one-time | `BLACK_FRIDAY_2026` |
 | [TablePro](https://tablepro.app/black-friday) | 40% off | $47.40 · one-time | `BLACKFRIDAY2026` |
 | [TCP Viewer](https://tcpviewer.proxyman.com/pricing) | 30% off | $20.30 · Standard | `BF2026` |
+| [TeaGo](https://teago.artsvit.com/) | About 20% off · through Nov 30, 2026 (PT); 500 redemptions | US$3.99 · single-user lifetime | [`ARTSVITBF20`](https://apps.apple.com/redeem?ctx=offercodes&id=6805488091&code=ARTSVITBF20) |
 | [Toplify](https://toplify.app) | $40 off · Nov 15–Dec 1, 2026 | $49.99 USD · lifetime (was $89.99) | [`BLKFR2026`](https://apps.apple.com/redeem?ctx=offercodes&id=6782706682&code=BLKFR2026) |
 | [VMPal](https://vmpal.com/pricing) | 25% off | $51.75 · one-time | — |
 | [WhaleDeck](https://apps.apple.com/us/app/docker-manager-gui-whaledeck/id1581548562) | 40% off | $35.00 · lifetime | — |
